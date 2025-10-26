@@ -1,0 +1,9 @@
+
+ amazon | abc1@gmail.com | 1234we 
+ flipcart | abc2@gmail.com | kanishka 
+ spotify | abc@gmail.com | 1234kanis 
+ microsoft | abc@gmail.com | qwerty
+ amazon | abc123@gmail.com | saw 
+ spotify | abc123@gmail.com | 6688 
+ amazon | abc123@gmail.com | %^2msgxdsto6h$6!y 
+ 
